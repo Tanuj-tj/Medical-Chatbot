@@ -6,7 +6,7 @@
 - Python
 - OpenAI/Groq Model
 - Langchain
-- PineCone
+- PineCone (VectorDB)
 - Flask
 - Docker
 - Github Actions
