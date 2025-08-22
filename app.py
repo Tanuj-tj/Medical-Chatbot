@@ -9,7 +9,7 @@ from src.prompt import *
 from dotenv import load_dotenv
 import os
 
-
+load_dotenv()
 app = Flask(__name__)
 
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
