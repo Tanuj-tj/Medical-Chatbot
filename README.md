@@ -15,6 +15,17 @@ conda activate medibot
 pip3 install -r requirements.txt
 ```
 
+### Create .env 
+```bash
+PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
+
+### Store embeddings to pinecode
+```bash
+python store_index.py
+```
+
 ### Running app locally
 ```bash
 python app.py
