@@ -1,4 +1,21 @@
-# Medical-Chatbot
+# Medibot
+
+![alt text](image-2.png)
+
+### Tech stack
+- Python
+- OpenAI/Groq Model
+- Langchain
+- PineCone
+- Flask
+- Docker
+- Github Actions
+- AWS
+    - CICD Deployment
+    - EC2 (Elastic Compute Cloud)
+    - ECR (Elastic Container Registry)
+
+![alt text](image-1.png)
 
 ### Create a conda enviroment 
 
