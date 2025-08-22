@@ -1,6 +1,8 @@
-# Medibot
+# MediBot
 
 ![alt text](image-2.png)
+
+![alt text](image.png)
 
 ### Tech stack
 - Python
